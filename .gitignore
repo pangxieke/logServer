@@ -1,0 +1,8 @@
+pb
+tags
+*.swp
+.testCoverage.txt
+.idea/*
+vendor/*
+/*.png
+/*.jpg
